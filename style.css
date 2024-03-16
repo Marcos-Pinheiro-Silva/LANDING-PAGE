@@ -92,35 +92,35 @@ main {
 }
 
 section {
-    display: flex; 
+    display: flex;
 }
 
 #bloco1 {
     background-color: rgb(255, 70, 70);
-    height: 27.80vh;
+    height: 21vh;
     width: 26vw;
-    padding: 4px;
+    padding-top: 10px;
 }
 
 #bloco2 {
     background-color: rgb(255, 194, 27);
-    height: 27.80vh;
+    height: 21vh;
     width: 26vw;
-    padding: 4px;
+    padding-top: 10px;
 }
 
 #bloco3 {
     background-color: rgb(59, 226, 198);
-    height: 27.80vh;
+    height: 21vh;
     width: 26vw;
-    padding: 4px;
+    padding-top: 10px;
 }
 
 #bloco4 {
     background-color: rgb(86, 182, 219);
-    height: 27.80vh;
+    height: 21vh;
     width: 26vw;
-    padding: 4px;
+    padding-top: 10px;
 }
 
 #blocimg {
