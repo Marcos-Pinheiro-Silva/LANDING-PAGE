@@ -1,2 +1,2 @@
 # LANDING-PAGE
- SIte de educação
+ Site de educação
