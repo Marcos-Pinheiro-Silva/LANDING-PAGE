@@ -153,5 +153,6 @@ section {
 .paragrafo1 > p {
     text-align: justify;
     color: white;
+    padding: 10px;
 }
 
