@@ -99,21 +99,21 @@ section {
     background-color: rgb(255, 70, 70);
     height: 21vh;
     width: 26vw;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 #bloco2 {
     background-color: rgb(255, 194, 27);
     height: 21vh;
     width: 26vw;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 #bloco3 {
     background-color: rgb(59, 226, 198);
     height: 21vh;
     width: 26vw;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 #bloco4 {
@@ -121,6 +121,7 @@ section {
     height: 21vh;
     width: 26vw;
     padding-top: 10px;
+    padding: 10px;
 }
 
 #blocimg {
@@ -153,6 +154,6 @@ section {
 .paragrafo1 > p {
     text-align: justify;
     color: white;
-    padding: 10px;
+
 }
 
